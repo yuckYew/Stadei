@@ -1,1 +1,27 @@
+# For Jupyter
 .ipynb_checkpoints
+
+# For Flask/Django
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+.DS_Store
+*.pyc
+*.pyo
+env
+env*
+dist
+build
+*.egg
+*.egg-info
+_mailinglist
+.tox
+.cache/
+.idea/
+
+# Coverage reports
+htmlcov
+.coverage
+.coverage.*
+*,cover
